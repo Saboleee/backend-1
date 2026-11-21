@@ -324,3 +324,6 @@ MIT © Zenith Protocol Contributors
 
 <!-- handsoff-issue-411 -->
 - #411: Health and readiness responses are indistinguishable to a screen reader
+
+<!-- handsoff-issue-412 -->
+- #412: Validation errors report only the first failing field
